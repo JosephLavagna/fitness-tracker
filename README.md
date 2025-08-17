@@ -1,6 +1,8 @@
-# Bodybuilding Fitness Coach App
+# Fitness Coach App
 
-A modern full-stack web application for bodybuilding fitness coaching, featuring a React frontend with Chakra UI and a .NET 9 Web API backend.
+A modern full-stack web application for fitness coaching, featuring a React frontend with Chakra UI and a .NET 9 Web API backend.
+
+Testing the potential of AI Agents, specifically Claude Sonnet 4
 
 ## 🏗️ Project Structure
 
