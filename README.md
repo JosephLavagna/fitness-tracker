@@ -58,29 +58,6 @@ fitness-coach/
    ```
    The frontend will be available at: `http://localhost:3000`
 
-## 🎯 Features
-
-### Frontend (React + Chakra UI)
-- **Modern Landing Page**: Inspired by Linear's clean design
-- **Responsive Design**: Works seamlessly on desktop and mobile
-- **Component-Based Architecture**: Modular and reusable components
-- **API Integration**: Fetches data from the .NET backend
-- **Custom Hooks**: For state management and API calls
-
-### Backend (.NET 9 Web API)
-- **RESTful API**: Clean and well-structured endpoints
-- **CORS Configuration**: Allows frontend communication
-- **Mock Data**: Ready-to-use sample data for testing
-- **Structured Models**: Clear data models for coaches and programs
-
-## 🎨 Design Inspiration
-
-The landing page design is inspired by [Linear.app](https://linear.app), featuring:
-- Clean, modern aesthetics
-- Clear call-to-action buttons
-- Professional layout with proper spacing
-- Responsive design principles
-
 ## 🛠️ Technology Stack
 
 ### Frontend
